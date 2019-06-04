@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/avantikagupta/AvniTestProj/_apis/build/status/Avantika3012.pipelines-java%20(1)?branchName=master)](https://dev.azure.com/avantikagupta/AvniTestProj/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
